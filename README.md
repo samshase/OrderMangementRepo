@@ -6,8 +6,6 @@ This is the second change
 to add to the previous commit
 Adding one more after branch is created
 addition by branch "newbranch"
-<<<<<<< HEAD
 newBranch edit
-=======
 master edit
->>>>>>> master
+
